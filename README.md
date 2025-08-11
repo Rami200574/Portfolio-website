@@ -1,1 +1,1 @@
-Built a portfolio website that showcased my skills in html, css and javascript, plus i implemented 3d animations to add an aesthetic design
+Developed a professional portfolio website that highlights my expertise in HTML, CSS, and JavaScript. The site features smooth 3D animations to create an engaging and modern user experience, demonstrating both my front-end development skills and attention to visual design.
